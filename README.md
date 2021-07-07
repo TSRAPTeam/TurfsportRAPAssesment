@@ -29,8 +29,9 @@ The following are examples of inputs and outputs from your function.
 | 1000      | Error (rand value out of range)           |
 
 You may assume the following:
-    - The currency symbol will always be ‘R’ but may not be present.
-    - The minus symbol will always appear in front of the rand value but may not be present
-    - The cents component may not appear
-    - Ignore decimal values below 0.01
+
+- The currency symbol will always be ‘R’ but may not be present.
+- The minus symbol will always appear in front of the rand value but may not be present
+- The cents component may not appear
+- Ignore decimal values below 0.01
 
