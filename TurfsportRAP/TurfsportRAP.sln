@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurfsportRAP", "TurfsportRAP\TurfsportRAP.csproj", "{52294EE6-C5A0-48F3-A1CF-969E9DD8983A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52294EE6-C5A0-48F3-A1CF-969E9DD8983A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52294EE6-C5A0-48F3-A1CF-969E9DD8983A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52294EE6-C5A0-48F3-A1CF-969E9DD8983A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52294EE6-C5A0-48F3-A1CF-969E9DD8983A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6DFBD23-1482-4DB1-AA6D-5825488E0625}
+	EndGlobalSection
+EndGlobal
